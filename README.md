@@ -1,3 +1,2 @@
 - Carlos Armado
 - Maria Antonieta
-- Alan Garcia
